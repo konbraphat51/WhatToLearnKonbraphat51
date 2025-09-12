@@ -1,0 +1,8 @@
+- [ ] Bayesian Stats
+  - [ ] Bayesian Test
+- [ ] Psy. evaluation
+  - [ ] Evals of intrinsic motivation
+  - [ ] How to make psy. evaluation method
+- [ ] Statistics
+- [ ] AI disappointment: further
+- [ ] Look at Masanobu Endo's work
