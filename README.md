@@ -6,3 +6,6 @@
 - [ ] Statistics
 - [ ] AI disappointment: further
 - [ ] Look at Masanobu Endo's work
+- [ ] Behavioural Economics
+- [ ] Game Studies
+  - [ ] Rules of Play
