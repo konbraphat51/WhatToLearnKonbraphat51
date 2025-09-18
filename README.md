@@ -4,6 +4,7 @@
   - [ ] Evals of intrinsic motivation
   - [ ] How to make psy. evaluation method
 - [ ] Statistics
+    - [ ] Semi-first
 - [ ] AI disappointment: further
 - [ ] Look at Masanobu Endo's work
 - [ ] Behavioural Economics
