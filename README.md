@@ -5,8 +5,14 @@
   - [ ] How to make psy. evaluation method
 - [ ] Statistics
     - [ ] Semi-first
-- [ ] AI disappointment: further
+- [ ] AI disappointment
   - [ ] Computers Are Social Actors
+    - [ ] Expiration: https://pubmed.ncbi.nlm.nih.gov/37952037/   
+  - [ ] expectation violation
+  - [ ] Social Presence Theory
+  - [ ] Algorithm Aversion
+  - [ ] [When AI is Perceived to Be Fairer than a Human](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2266244)
+  - [ ] [Algorithm appreciation](https://www.researchgate.net/publication/331446229_Algorithm_appreciation_People_prefer_algorithmic_to_human_judgment)
 - [ ] Look at Masanobu Endo's work
 - [ ] Behavioural Economics
 - [ ] Game Studies
