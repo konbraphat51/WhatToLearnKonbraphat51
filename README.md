@@ -6,6 +6,7 @@
 - [ ] Statistics
     - [ ] Semi-first
 - [ ] AI disappointment: further
+  - [ ] Computers Are Social Actors
 - [ ] Look at Masanobu Endo's work
 - [ ] Behavioural Economics
 - [ ] Game Studies
