@@ -17,3 +17,5 @@
 - [ ] Behavioural Economics
 - [ ] Game Studies
   - [ ] Rules of Play
+- [ ] Theoretical Informatics
+  - [ ] Typing theory
