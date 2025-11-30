@@ -20,3 +20,5 @@
   - [ ] Rules of Play
 - [ ] Theoretical Informatics
   - [ ] Typing theory
+- [ ] Evolutionary Psychology
+- [ ] ethology
