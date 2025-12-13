@@ -25,3 +25,4 @@
 - [ ] ethology
 - [ ] LLM Agent
   - [ ] What is MCP?
+  - [ ] Memory/history controlling
