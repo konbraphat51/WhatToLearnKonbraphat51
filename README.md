@@ -13,7 +13,8 @@
   - [ ] Algorithm Aversion
   - [ ] [When AI is Perceived to Be Fairer than a Human](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2266244)
   - [ ] [Algorithm appreciation](https://www.researchgate.net/publication/331446229_Algorithm_appreciation_People_prefer_algorithmic_to_human_judgment)
-  - [ ] Disappointment against AI art
+  - [ ] Disappointment with AI art
+  - [ ] Social Comparison Theory
 - [ ] Look at Masanobu Endo's work
 - [ ] Behavioural Economics
 - [ ] Game Studies
