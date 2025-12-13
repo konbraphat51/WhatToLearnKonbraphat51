@@ -22,3 +22,5 @@
   - [ ] Typing theory
 - [ ] Evolutionary Psychology
 - [ ] ethology
+- [ ] LLM Agent
+  - [ ] What is MCP?
