@@ -26,3 +26,6 @@
 - [ ] LLM Agent
   - [ ] What is MCP?
   - [ ] Memory/history controlling
+- [ ] CSS Styling
+  - [ ] Vuetify
+- [ ] React
