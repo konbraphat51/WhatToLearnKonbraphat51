@@ -29,3 +29,5 @@
 - [ ] CSS Styling
   - [ ] Vuetify
 - [ ] React
+- [ ] Motivation Psychology
+  - [ ] Look at Kenji Matsumoto's work
