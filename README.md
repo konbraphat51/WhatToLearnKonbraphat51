@@ -33,3 +33,5 @@
 - [ ] React
 - [ ] Motivation Psychology
   - [ ] Look at Kenji Matsumoto's work
+- [ ] Reinforcement Learning in Human brain
+  - [ ] dopamine
