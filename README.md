@@ -36,3 +36,5 @@
 - [ ] Reinforcement Learning in Human brain
   - [ ] dopamine
   - [ ] Look at Yagishita's work
+- [ ] ethology
+  - [ ] Neuroethology
