@@ -1,5 +1,6 @@
 - [ ] Bayesian Stats
   - [ ] Bayesian Test
+  - [ ] Bayesian Factor
 - [ ] Psy. evaluation
   - [ ] Evals of intrinsic motivation
   - [ ] How to make psy. evaluation method
@@ -24,7 +25,7 @@
 - [ ] Evolutionary Psychology
 - [ ] ethology
 - [ ] LLM Agent
-  - [ ] What is MCP?
+  - [x] What is MCP?
   - [ ] Memory/history controlling
 - [ ] questionnaire evaluation
   - [ ] Ceiling Effect
@@ -38,3 +39,4 @@
   - [ ] Look at Yagishita's work
 - [ ] ethology
   - [ ] Neuroethology
+- [ ] Psychological Experiment Design
