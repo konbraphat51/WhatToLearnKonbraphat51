@@ -34,6 +34,7 @@
 - [ ] React
 - [ ] Motivation Psychology
   - [ ] Look at Kenji Matsumoto's work
+- [ ] Social Anxiety Disorder
 - [ ] Reinforcement Learning in Human brain
   - [ ] dopamine
   - [ ] Look at Yagishita's work
