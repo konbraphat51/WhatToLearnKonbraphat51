@@ -23,7 +23,6 @@
 - [ ] Theoretical Informatics
   - [ ] Typing theory
 - [ ] Evolutionary Psychology
-- [ ] ethology
 - [ ] LLM Agent
   - [x] What is MCP?
   - [ ] Memory/history controlling
