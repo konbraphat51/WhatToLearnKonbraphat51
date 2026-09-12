@@ -41,3 +41,5 @@
 - [ ] LLM Interviewer
   - [ ] Neuroethology
 - [ ] Psychological Experiment Design
+- [ ] Biometrics
+  - [ ] [脳活動指標を用いたVRゲーム実行時の楽しさ感情の評価](https://www.jstage.jst.go.jp/article/jsmbe/Annual62/Abstract/Annual62_304_1/_article/-char/ja/)
