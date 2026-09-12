@@ -38,5 +38,6 @@
   - [ ] dopamine
   - [ ] Look at Yagishita's work
 - [ ] ethology
+- [ ] LLM Interviewer
   - [ ] Neuroethology
 - [ ] Psychological Experiment Design
